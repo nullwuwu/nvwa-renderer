@@ -4481,6 +4481,11 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
+framebus@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npm.taobao.org/framebus/download/framebus-4.0.0.tgz#d7042f7a38f2076c4f1ad19fead1d31c04ba401d"
+  integrity sha1-1wQvejjyB2xPGtGf6tHTHAS6QB0=
+
 fresh@0.5.2, fresh@^0.5.2:
   version "0.5.2"
   resolved "https://registry.npm.taobao.org/fresh/download/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
